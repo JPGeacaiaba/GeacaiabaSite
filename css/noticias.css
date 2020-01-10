@@ -1,0 +1,8 @@
+.imagens {
+    border:2px solid #a2a141;
+    margin: 5px;
+    padding: 5px;   
+    float:none;
+    box-sizing: border-box;
+    background-color:#a2a141;
+}

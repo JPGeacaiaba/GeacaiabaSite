@@ -1,0 +1,205 @@
+main{
+  width: 100%;
+  padding-bottom: 0;
+  float:none;
+}
+.foto-principal{
+  width: 16em;
+  height: 16em;
+  border-radius: 50%;
+  position: relative;
+}
+
+
+.baleares{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.chape{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.cruz{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.galatas{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.inter{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.rapo{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.villa{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.real{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.lion{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.sele{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.vasco{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.vetura{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.junior{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.usinagem{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+.wizard{
+  width:4em;
+  height: 4em;
+  border-radius: 50%;
+}
+
+
+.titulo-principal{
+  font-size: 3em;
+  color:#FFF;
+  position: relative;
+}
+
+
+.saudacao p{
+  font-size: 1.5em;
+  color:#FFF;
+  line-height: 1;
+  padding: 2em;
+}
+
+.secao-inicio{
+  padding: 2em;
+}
+.secao-inicio h2{
+  font-size: 2em;
+  text-transform: uppercase;
+}
+.saudacao{
+background-color:#999999;
+border-bottom: .5em solid #000;
+
+}
+
+.saudacao-inicial{
+  font-size:2em;
+}
+.saudacao-inicial span{
+  font-size: 3.0em;
+}
+saudacao-inicial p{
+  font-size: 1.5em;
+}
+
+.noticias{
+  background-color: #e5e5e5;
+  border-bottom: .5em solid #000;
+}
+
+.noticias p{
+  font-size: 1.5em;
+}
+.historia{
+  background-color: #007f7f;
+  color:#e5e5e5;
+  position: relative;
+  border-bottom: .5em solid #FFF;
+}
+.historia a{
+    color:#e5e5e5;
+}
+
+.inicio-post{
+    position: absolute;
+    top: 6em;
+    height: 7em;
+    left: 35%;
+    right: 4em;
+    background-color: #007f7f;
+
+
+}
+
+.galeria{
+  background-color: #333333;
+  color:#e5e5e5;
+  border-bottom: .5em solid #FFF;
+}
+
+.galeria h2{
+  color:#FFF;
+}
+
+.galeria ul{
+  overflow: hidden;
+}
+
+.galeria li{
+  width: 33.333%;
+  float:left;
+}
+
+.galeria img{
+  width: 100%;
+  display: block;
+}
+
+.rede_social ul{
+  overflow: hidden;
+}
+
+.rede_social img{
+  width: 3%;
+  text-align: center;
+}
+.rede_social h3{
+  color: inherit;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.face{
+  top:33%;
+  left:23%;
+  position: relative;
+}
+.youtube{
+  top:33%;
+  left:50%;
+  position: relative;
+
+}
